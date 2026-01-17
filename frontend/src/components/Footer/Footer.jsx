@@ -27,10 +27,10 @@ const Footer = () => {
         <div className="footer-content-right">
             <h2>Get IN TUCH</h2>
             <ul>
+                <li>Developed by</li>
+                <li>MR Raju</li>
                 <li>+91-9065105383</li>
                 <li>mr.raju412@gmail.com</li>
-                <li></li>
-                <li></li>
             </ul>
         </div>
       </div>
